@@ -1,0 +1,15 @@
+{
+    "importsNotUsedAsValues": "preserve",  
+    "compilerOptions": {
+        "outDir": "output",
+        "allowSyntheticDefaultImports": true,
+        "sourceMap": true,
+        "module": "es2020",
+        "target": "es2015",
+        "lib": ["webworker", "es2015", "es2017", "dom"],
+        "moduleResolution": "Node",
+        "strict": true,
+        "baseUrl": "./",
+    },
+    "include": ["src/**/*.ts"]
+}
