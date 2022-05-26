@@ -130,3 +130,5 @@ class BuilderPatternDemo {
 }
 
 BuilderPatternDemo.main();
+
+export {};

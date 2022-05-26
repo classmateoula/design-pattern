@@ -67,3 +67,5 @@ class FlyweightDemo {
 }
 
 FlyweightDemo.main();
+
+export {};

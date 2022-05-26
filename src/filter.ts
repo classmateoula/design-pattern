@@ -119,3 +119,5 @@ class CriteriaPatternDemo {
 }
 
 CriteriaPatternDemo.main();
+
+export {};
